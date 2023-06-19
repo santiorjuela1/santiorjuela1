@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiorjuela1
-- 👀 I’m interested in programming, sports, media, books, anime and other things 
-- 🌱 I’m currently learning programming. I am trying to develop my problem solving skills and would like to focus mostly in Python and Java in the near future. 
+- 👀 I’m interested in programming, sports, media, books, languages, among other things. 
+- 🌱 I’m currently learning programming. My main focus is Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
